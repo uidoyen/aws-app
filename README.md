@@ -1,2 +1,1 @@
-# aws-app
-ReactJs/NodeJs Application
+# webpack-trails
